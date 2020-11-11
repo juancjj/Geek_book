@@ -1,0 +1,59 @@
+/* NO TOCAR ESTOS ESTILOS */
+/* ul.news {
+    list-style: none;
+    margin: 0;
+    padding: 0;
+    font-family: arial;
+  }
+  a {
+    color: red;
+  }
+  ul.news li.news__item {
+    padding-top: 1em;
+    padding-bottom: 1em;
+    padding-left: 10px;
+  }
+  ul.news li.news__item + li.news__item {
+    border-top: 1px solid #ccc;
+  }
+  ul.news li.news__item:nth-child(2n) {
+    background: #eee;
+  }
+  ul.news li.news__item:last-child {
+    border-bottom: 1px solid #ccc;
+  }
+  ul.news li.news__item h2.news__item-title {
+    margin: 0 0 .25em;
+    font-size: 20px;
+  }
+  ul.news li.news__item a.news__item-link {
+    color: green;
+  } */
+  /* NO TOCAR ESTOS ESTILOS */
+  
+  /* Nuevos estilos a partir de esta línea */
+
+  div .container {
+    list-style: none;
+    margin: 0;
+    padding: 0;
+    font-family: arial;
+  }
+  div.container div.container-items {
+    padding-top: 1em;
+    padding-bottom: 1em;
+    padding-left: 10px;
+  }
+  div.container div.continer-items {
+    border-top: 1px solid #ccc;
+  }
+  div.container div.continer-items:last-child {
+    border-bottom: 1px solid #ccc;
+  }
+  div.container div.continer-items h2.titles {
+    margin: 0 0 .25em;
+    font-size: 20px;
+  }
+  div.container a.link-more {
+    color: red;
+  }
