@@ -1,0 +1,23 @@
+.container{
+    background-color: thistle;
+    max-width: 90%;
+    margin: auto;
+    padding: 0 20px;
+    display: flex;
+    flex-wrap: wrap-reverse;
+    justify-content: space-around;
+}
+
+.noticia{
+    max-width: 40%;
+    margin: 10px;
+    text-align: left;
+}
+
+img{
+    max-width: 100%;
+}
+
+.noticia-p{
+    padding-bottom: 20px;
+}
